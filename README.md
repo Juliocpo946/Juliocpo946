@@ -1,92 +1,101 @@
-¡Excelente idea\! Aquí tienes una versión más completa y detallada de tu `README.md`, agregando secciones sobre tu experiencia profesional, lo que estás aprendiendo y en qué te gustaría colaborar.
-
 -----
 
-# 👋 ¡Hola\! Soy Julio César Pérez Ortiz
+\<h1 align="center"\>Hola 👋, soy Julio César Pérez Ortiz\</h1\>
+\<h3 align="center"\>Desarrollador Backend especializado en Python & JavaScript\</h3\>
 
 \<p align="center"\>
-\<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iY2djd2Zqc3N6Y2w3eHh0cmZocGJqd3o0a3k3dzBmMm1qN3B2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iY2djd2Zqc3N6Y2w3eHh0cmZocGJqd3o0a3k3dzBmMm1qN3B2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"\>
+\<a href="mailto:juliocesarp6273@gmail.com"\>
+\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"\>
+\</a\>
+\<a href="[https://www.linkedin.com/in/tu-usuario-aqui/](https://www.google.com/search?q=https://www.linkedin.com/in/tu-usuario-aqui/)"\>
+\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\>
+\</a\>
 \</p\>
 
-[cite\_start]Soy un **Desarrollador Backend** con experiencia en la creación de APIs REST y sistemas web escalables y robustos[cite: 4]. [cite\_start]Me especializo en **Python** y **JavaScript**, con un fuerte dominio de frameworks como **FastAPI** y **Node.js/Express** para construir soluciones modernas y seguras aplicando principios **SOLID**[cite: 5, 6].
+-----
 
-  - 🔭 Actualmente estoy enfocado en perfeccionar mis habilidades en arquitecturas de microservicios y explorando nuevos patrones de diseño de software.
-  - [cite\_start]🌱 Estoy aprendiendo **Go** para expandir mis conocimientos en lenguajes de alto rendimiento y profundizando en servicios de **AWS** para soluciones en la nube[cite: 32, 36].
+### 👨‍💻 Sobre Mí
+
+Soy un desarrollador apasionado por la creación de APIs REST y sistemas web escalables, robustos y eficientes. Mi objetivo es diseñar arquitecturas modulares aplicando principios **SOLID** para construir soluciones modernas y seguras. Actualmente, estoy cursando el 9º cuatrimestre de **Ingeniería en Software** y siempre estoy en busca de nuevos desafíos.
+
+  - 🌱 Estoy aprendiendo **Go** y profundizando mis conocimientos en servicios de **AWS**.
   - 👯 Busco colaborar en proyectos de código abierto relacionados con optimización logística o herramientas educativas.
-  - 💬 Pregúntame sobre **Python, FastAPI, Node.js, Arquitecturas Hexagonal y Screaming**.
+  - 💬 Pregúntame sobre **Python, FastAPI, Node.js, y Arquitecturas de Software**.
+
+\<p align="center"\>
+\<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Juliocpo946\&show\_icons=true\&locale=es\&layout=compact\&theme=dracula](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DJuliocpo946%26show_icons%3Dtrue%26locale%3Des%26layout%3Dcompact%26theme%3Ddracula)" alt="Top Languages" /\>
+\</p\>
+
+\<p align="center"\>
+\<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Juliocpo946\&show\_icons=true\&locale=es\&theme=dracula](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJuliocpo946%26show_icons%3Dtrue%26locale%3Des%26theme%3Ddracula)" alt="GitHub Stats" /\>
+\</p\>
 
 -----
 
-## 🛠️ Habilidades Técnicas
+### 🛠️ Lenguajes y Herramientas
 
-| Área                                    | Tecnologías                                                                                        |
-| --------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **Lenguajes** | [cite\_start]`JavaScript`, `Python`, `Go`, `SQL` [cite: 32]                                                     |
-| **Backend** | [cite\_start]`Node.js`, `Express`, `FastAPI` [cite: 33]                                                         |
-| **Frontend** | [cite\_start]`React`, `Vue.js`, `HTML5`, `CSS3`, `Tailwind CSS`, `Alpine.js` [cite: 9, 34]                     |
-| **Bases de Datos** | [cite\_start]`MySQL`, `SQLite`, `MongoDB` [cite: 35]                                                            |
-| **Herramientas y Despliegue** | [cite\_start]`Git`, `GitHub`, `AWS`, `Vercel`, `Firebase`, `Docker`, `Postman` [cite: 36]                         |
-| **Arquitecturas y Metodologías** | [cite\_start]`Hexagonal`, `Screaming`, `MVVM`, `Scrum`, `SOLID`, `TDD` [cite: 37, 38]                            |
+#### Lenguajes
 
------
+\<p\>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite)" alt="Python"\>
+\<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack)" alt="JavaScript"\>
+\<img src="[https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite)" alt="Go"\>
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite)" alt="SQL"\>
+\</p\>
 
-## 💼 Experiencia Profesional
+#### Backend
 
-### **Weblabor** - Desarrollador Front-end (Estancia Industrial)
+\<p\>
+\<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite)" alt="Node.js"\>
+\<img src="[https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Express-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite)" alt="Express"\>
+\<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite)" alt="FastAPI"\>
+\</p\>
 
-[cite\_start]*Mérida, Yucatán (Agosto 2024)* [cite: 8, 10]
+#### Frontend
 
-  - [cite\_start]Desarrollé la interfaz completa de la plataforma Sportso, transformando prototipos en vistas interactivas y funcionales[cite: 11].
-  - [cite\_start]Construí componentes reutilizables y responsivos para mejorar la experiencia de usuario utilizando **Vue.js** y **Alpine.js**[cite: 9, 12].
-  - [cite\_start]Optimicé el rendimiento visual y garanticé la compatibilidad entre diferentes navegadores y dispositivos[cite: 13].
+\<p\>
+\<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack)" alt="React"\>
+\<img src="[https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dfor-the-badge%26logo%3Dvuedotjs%26logoColor%3Dwhite)" alt="Vue.js"\>
+\<img src="[https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite)" alt="Tailwind CSS"\>
+\</p\>
 
-### **CYBAC TI** - Desarrollador Web (Estancia Industrial)
+#### Bases de Datos y Herramientas
 
-[cite\_start]*Tuxtla Gutiérrez, Chiapas (Marzo - Abril 2024)* [cite: 15, 18, 20]
-
-  - [cite\_start]Diseñé y desarrollé una aplicación web completa con un panel administrativo para la gestión de contenido, usando **PHP** y **Laravel 10**[cite: 17, 19].
-  - [cite\_start]Construí funcionalidades de frontend y backend, asegurando modularidad, seguridad y validación de datos[cite: 21].
-  - [cite\_start]Apliqué buenas prácticas de arquitectura de software orientadas a la escalabilidad del proyecto[cite: 23].
-
------
-
-## 🏆 Proyectos Destacados
-
-### 1\. Sistema de Optimización en la Logística de Insumos en Desastres
-
-[cite\_start]Aplicación diseñada para optimizar las rutas de distribución de suministros en escenarios de desastre[cite: 25, 26].
-
-  - [cite\_start]**Tecnologías**: `Python`, `FastAPI`, `React`, `SQLite`, `OpenStreetMap`[cite: 26].
-  - [cite\_start]**Características**: Incluye un algoritmo genético para el cálculo de rutas y una API REST para el procesamiento geoespacial[cite: 27].
-
-### 2\. API de Gestión de Viajes con Arquitectura Screaming
-
-[cite\_start]API REST para la administración completa de viajes, usuarios, actividades y pagos[cite: 28, 29].
-
-  - [cite\_start]**Tecnologías**: `FastAPI`, `MongoDB Atlas`, `React`, `API de Mercado Pago`[cite: 29].
-  - [cite\_start]**Características**: Integra servicios de pago seguros y sigue los principios SOLID, con documentación en OpenAPI/Swagger[cite: 30].
+\<p\>
+\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL"\>
+\<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite)" alt="MongoDB"\>
+\<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite)" alt="Docker"\>
+\<img src="[https://img.shields.io/badge/Amazon\_AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite)" alt="AWS"\>
+\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite)" alt="Git"\>
+\<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack)" alt="Firebase"\>
+\</p\>
 
 -----
 
-## 📜 Certificaciones y Educación
+### 🏆 Proyectos Destacados
 
-### **Educación**
-
-  - [cite\_start]**Ingeniería en Software** - Universidad Politécnica de Chiapas (Agosto 2022 - Actualidad)[cite: 47, 48, 50].
-      - [cite\_start]*Actualmente cursando el 9º cuatrimestre*[cite: 51].
-
-### **Certificaciones**
-
-  - [cite\_start]**Google** - Certificado de Diseño de Experiencia del Usuario (UX) [cite: 41]
-  - [cite\_start]**AWS Academy** - Cloud Foundations & Cloud Architecting [cite: 42, 43]
-  - [cite\_start]**CISCO** - Networking Basics & Network Addressing and Basic Troubleshooting [cite: 44, 45]
+  - **Sistema de Optimización en la Logística de Insumos en Desastres**: Aplicación para optimizar rutas de distribución de suministros usando un algoritmo genético. (`Python`, `FastAPI`, `React`, `OpenStreetMap`).
+  - **API de Gestión de Viajes con Arquitectura Screaming**: API REST para administración de viajes, usuarios, actividades y pagos, aplicando principios SOLID. (`FastAPI`, `MongoDB`, `React`, `API Mercado Pago`).
 
 -----
 
-## 📫 Contacto
+### 🎓 Certificaciones y Educación
 
-\<p align="left"\>
-\<a href="mailto:blackclic146@gmail.com"\>
-\<img alt="Email" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /\>
+  - **Ingeniería en Software** - Universidad Politécnica de Chiapas (Cursando).
+  - **Certificado de Diseño de Experiencia del Usuario (UX)** - Google.
+  - **AWS Academy** - Cloud Foundations & Cloud Architecting.
+
+-----
+
+### 📫 Contáctame
+
+\<p align="center"\>¡Conectemos\! Siempre estoy abierto a discutir nuevos proyectos, ideas creativas o cualquier oportunidad.\</p\>
+
+\<p align="center"\>
+\<a href="mailto:juliocesarp6273@gmail.com"\>
+\<img src="[https://img.shields.io/badge/Envíame\_un\_correo-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Env%C3%ADame_un_correo-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite)" alt="Gmail"\>
+\</a\>
+\<a href="[https://www.linkedin.com/in/tu-usuario-aqui/](https://www.google.com/search?q=https://www.linkedin.com/in/tu-usuario-aqui/)"\>
+\<img src="[https://img.shields.io/badge/Encuéntrame\_en\_LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Encu%C3%A9ntrame_en_LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\>
 \</a\>
 \</p\>
