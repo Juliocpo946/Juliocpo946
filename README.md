@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Julio César Pérez Ortiz</h1>
-  <h3>Desarrollador Backend | Python & JavaScript</h3>
+  <h3>Desarrollador FullStack | Python & JavaScript</h3>
   
   <p>
     <a href="mailto:juliocesarp6273@gmail.com">
